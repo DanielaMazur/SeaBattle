@@ -1,12 +1,8 @@
 import React from "react";
-import SeaBattleTable from "./sea-battle-table";
+import SeaBattleGame from "./sea-battle-game";
 
 function App() {
-  return (
-    <div>
-      <SeaBattleTable />
-    </div>
-  );
+  return <SeaBattleGame />;
 }
 
 export default App;

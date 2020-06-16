@@ -4,5 +4,8 @@ export default makeStyles((theme) => ({
   tableItem: {
     border: "2px solid",
     height: theme.spacing(5),
+    "&:hover": {
+      background: "red",
+    },
   },
 }));

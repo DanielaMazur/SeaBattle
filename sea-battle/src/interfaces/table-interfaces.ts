@@ -21,3 +21,8 @@ export enum TableYLabels {
   eight = "8",
   nine = "9",
 }
+
+export enum Boards {
+  boardOne = "boardOne",
+  boardTwo = "boardTwo",
+}
